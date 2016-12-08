@@ -6,11 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "de-DE"
+title                    : "Wie du programmieren lernst"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+company_name             : "LernMoment Akademie"
+name                     : &name "Jan Suchotzki"
+description              : &description "Das Tutorial mit dem du in kürzester Zeit in das Thema programmieren lernen einsteigen kannst."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -174,7 +175,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
