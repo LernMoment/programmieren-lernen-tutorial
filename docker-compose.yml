@@ -1,0 +1,11 @@
+Jekyll:
+  image: grahamc/jekyll
+  ports:
+    - '4000:4000'
+  volumes:
+    - .:/src/
+    - /src/_site
+  command: serve --host 0.0.0.0 --config _config.yml,_config-devenv.yml
+  environment:
+    - TZ=Europe/Berlin
+    - LANG=C.UTF-8
