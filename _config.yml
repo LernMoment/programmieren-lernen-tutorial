@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : LernMoment
 facebook:
   username               :
   app_id                 :
@@ -78,19 +78,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jan Suchotzki"
+  avatar           : "/assets/images/jan-suchotzki-photo.jpg"
+  bio              : "Dozent, Coach und ewig Lernender!"
+  location         : "Deutschland"
+  email            : "jan@lernmoment.de"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "LernMoment"
   foursquare       :
-  github           :
+  github           : "lernmoment"
   google_plus      :
   keybase          :
   instagram        :
@@ -98,14 +98,14 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "5258906/jan-suchotzki"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "LernMoment"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "UC5jCUQ6IPHtQP5r4y9byCqA"
 
 
 # Reading Files
