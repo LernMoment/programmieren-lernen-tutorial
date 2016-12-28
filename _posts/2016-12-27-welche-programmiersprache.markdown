@@ -1,6 +1,6 @@
 ---
 title:  "Welche Programmiersprache für den Einstieg?"
-date: 2016-12-27T06:00:00
+date: 2016-12-27T09:00:00
 categories: 
   - Lektion
 tags:
@@ -46,3 +46,5 @@ Du hast dich nun hoffentlich für eine Programmiersprache entschieden. Im nächs
 Vielen Dank und viel Erfolg beim Lernen
 
 Jan von [LernMoment.de](http://www.lernmoment.de)
+
+[Zur nächsten Lektion](/erste-schritte/){: .btn .btn--primary .btn--large}

@@ -46,3 +46,5 @@ Du hast nun in wenigen Minuten die Grundlagen für erfolgreiches "Programmieren 
 Vielen Dank und viel Erfolg beim Lernen
 
 Jan von [LernMoment.de](http://www.lernmoment.de)
+
+[Zur nächsten Lektion](/welche-programmiersprache/){: .btn .btn--primary .btn--large}
