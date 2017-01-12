@@ -27,7 +27,7 @@ Folgends Video ersetzen mit dem passenden für diese Lektion!
 
 Eigentlich könnte diese Lektion nach folgender Aussage enden:
 
-<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text=Es ist egal welche Programmiersprache du wählst, solange du es JETZT machst und anfängst zu lernen!" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter">Es ist egal welche Programmiersprache du wählst, solange du es JETZT machst und anfängst zu lernen! <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
+<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text=Es ist egal welche Programmiersprache du wählst, solange du es JETZT machst und anfängst zu lernen!" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" target="_blank">Es ist egal welche Programmiersprache du wählst, solange du es JETZT machst und anfängst zu lernen! <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
 
 Wahrscheinlich trägst du die Frage *"Mit welcher Programmiersprache soll ich anfangen?"* schon länger mit dir rum. Wenn du es machst wie ich, dann hast du schon einige Webseiten, Foren und Facebook-Gruppen besucht und bist deiner Antwort noch kein Stück näher.
 
@@ -38,7 +38,7 @@ Warum kannst du dich also nicht entscheiden? Ich denke es geht hauptsächlich au
 
 Eines mal gleich vorweg: 
 
-<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text=Es gibt keine falsche Programmiersprache für den Einstieg. Bei einigen brauchst du nur etwas mehr Zeit." class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter">Es gibt keine "falsche" Programmiersprache für den Einstieg. Bei einigen brauchst du nur etwas mehr Zeit. <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
+<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text=Es gibt keine falsche Programmiersprache für den Einstieg. Bei einigen brauchst du nur etwas mehr Zeit." class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" target="_blank">Es gibt keine "falsche" Programmiersprache für den Einstieg. Bei einigen brauchst du nur etwas mehr Zeit. <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
 
 Da du bisher noch wenig über Programmiersprachen weißt, zeige ich dir in dieser Lektion wofür du überhaupt eine Programmiersprache brauchst und was die wichtigsten Bestandteile sind. Damit hast du die wichtigsten Informationen um dich für eine Sprache zu entscheiden. Genau so einfach wie es hier steht ist es auch. Es ist viel wichtiger mit dem Lernen anzufangen als noch viele Tage oder auch Stunden damit zu verbringen zu suchen.
 
@@ -72,7 +72,7 @@ Im Kontext von Programmiersprachen gibt es drei sehr wichtige Komponenten die ic
  - **Bibliotheken** - Bibliotheken stellen Funktionalitäten zur Verfügung die du in deinem Quellcode verwenden kannst. Du musst also nicht jedesmal das Rad neu erfinden. Aus meiner Sicht sind sie selten ein fester Bestandteil einer Programmiersprache, aber sie tragen viel zu ihrer Effektivität bei. 
  - **Konzepte** - Hier mit meine ich allgemeine Konzepte wie Variablen, Datentypen, Funktionen, Objektorientierung, Datenkapselung und viele mehr. Solche Konzepte sind nicht Bestandteil einer Programmiersprache, sondern viel mehr setzt eine Programmiersprache (durch ihre Syntax) solche Konzepte um. Es handelt sich also um etwas sehr allgemeines und abstraktes. Es gibt Konzepte, die in (fast) jeder Programmiersprache vorkommen. Andere findest du nur in einer Gruppe von Sprachen und wieder andere gibt es in nur sehr wenigen Sprachen.
 
-<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text=Programmieren lernen: Erst Konzepte, dann Syntax, dann Bibliotheken. Kleine Iterationen. Immer viel Praxis und Übung." class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter">Programmieren lernen: Erst Konzepte, dann Syntax, dann Bibliotheken. Kleine Iterationen. Immer viel Praxis und Übung. <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
+<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text=Programmieren lernen: Erst Konzepte, dann Syntax, dann Bibliotheken. Kleine Iterationen. Immer viel Praxis und Übung." class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" target="_blank">Programmieren lernen: Erst Konzepte, dann Syntax, dann Bibliotheken. Kleine Iterationen. Immer viel Praxis und Übung. <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
 
 Das wichtigste im Kontext einer Programmiersprache sind die Konzepte. Die Konzepte der momentan gängigen Sprachen wie Java, Swift, C#, Python, C, … sind jedoch alle sehr ähnlich. Jede Sprache hat ihre Eigenheiten, aber die wirst du als Einsteiger erst in einigen Monaten, wenn nicht gar Jahren erfahren. Bis dahin wirst (oder solltest) du Konzepte lernen die du in allen Programmiersprachen wieder findest.
 
@@ -108,7 +108,7 @@ Der große Vorteil von Sprachen in der Mitte des Spektrums ist, dass sie alle wi
 
 Bevor ich die einzelnen Teile nochmals zusammenfasse, möchte ich dir noch einen weiteren Tipp geben:
 
-<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text=Wenn du Programmieren lernen willst, verändere möglichst wenig an deiner IT-Infrastruktur." class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter">Wenn du Programmieren lernen willst, verändere möglichst wenig an deiner IT-Infrastruktur. <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
+<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text=Wenn du Programmieren lernen willst, verändere möglichst wenig an deiner IT-Infrastruktur." class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" target="_blank">Wenn du Programmieren lernen willst, verändere möglichst wenig an deiner IT-Infrastruktur. <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
 
 Jetzt zu Anfang bist du bestimmt total begeistert, hast tolle Pläne und Ideen, verbringst Tage und Nächte um dich zu informieren und zu lernen. Das wird sich allerdings auch wieder ändern. Je schwerer du es dir machst um so schneller wird es sich ändern und plötzlich stellst du fest, dass du dich schon einige Wochen nicht mehr mit Programmierung beschäftigt hast.
 
@@ -183,9 +183,9 @@ Folgende Fragen kannst du im Zusammenhang mit der Programmiersprache für deine 
 
 Wie bereits im Video angemerkt, ist die Frage *Welche Programmiersprache für den Einstieg?* sehr umstritten. Programmierer und Softwareentwickler können sehr dogmatisch sein und diese Frage ist ein super Beispiel dafür. Wenn du ein paar andere Meinungen als meine haben willst, dann schau dir einen oder mehrere der folgenden Artikel an:
 
- - [Ran an den Code](http://www.heise.de/ct/ausgabe/2015-18-Die-passende-Programmiersprache-finden-2767703.html) von Dr. Oliver Diedrich. Dieser Artikel, der in der c't erschienen ist, hat viele gute Ansätze. Ich bin allerdings nicht der Ansicht, dass jeder mit *Python* seine Entwicklerkarriere beginnen sollte.
- - [Welche Programmiersprache zuerst?](https://codingtutor.de/programmieren-lernen/welche-programmiersprache-zuerst-lernen-2/) auch Jan von codingtutor.de kommt zu der Feststellung, dass es nicht die eine richtige Programmiersprache für den Einstieg gibt.
- - [Welche Programmiersprache du zuerst lernen solltest](http://t3n.de/news/programmiersprache-lernen-711022/) gefällt mir schon wegen der indirekten Aussage, dass du mehrere Programmiersprachen lernen solltest. Die Aussage *"Wer beispielsweise irgendwann einen Job bei Facebook oder Google ergattern möchte, kommt ohne Python nicht weit."* ist jedoch sehr fragwürdig.
+ - <a href="http://www.heise.de/ct/ausgabe/2015-18-Die-passende-Programmiersprache-finden-2767703.html" target="_blank">Ran an den Code</a> von Dr. Oliver Diedrich. Dieser Artikel, der in der c't erschienen ist, hat viele gute Ansätze. Ich bin allerdings nicht der Ansicht, dass jeder mit *Python* seine Entwicklerkarriere beginnen sollte.
+ - <a href="https://codingtutor.de/programmieren-lernen/welche-programmiersprache-zuerst-lernen-2/" target="_blank">Welche Programmiersprache zuerst</a> auch Jan von <a href="https://codingtutor.de" target="_blank">condingtutor.de</a> kommt zu der Feststellung, dass es nicht die eine richtige Programmiersprache für den Einstieg gibt.
+ - <a href="http://t3n.de/news/programmiersprache-lernen-711022/" target="_blank">Welche Programmiersprache du zuerst lernen solltest</a> gefällt mir schon wegen der indirekten Aussage, dass du mehrere Programmiersprachen lernen solltest. Die Aussage *"Wer beispielsweise irgendwann einen Job bei Facebook oder Google ergattern möchte, kommt ohne Python nicht weit."* ist jedoch sehr fragwürdig.
 
 Für was auch immer du dich entscheidest, du kannst mit jeder Programmiersprache Spaß haben und tolle Erfolge erzielen. Fang einfach an!
 
