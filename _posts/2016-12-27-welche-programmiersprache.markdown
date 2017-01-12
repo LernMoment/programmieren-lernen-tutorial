@@ -120,15 +120,15 @@ So könntest du zum Beispiel dich erstmal mit dem neuen Betriebssystem vertraut 
 
 ### Fazit
 
-> Es gibt keine falsche Programmiersprache für den Einstieg!
+<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text={% raw %}Wie du Programmieren lernst Tutorial: Es gibt keine falsche Programmiersprache für den Einstieg! %23ProgrammierenLernen{% endraw %}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" target="_blank">Es gibt keine falsche Programmiersprache für den Einstieg! <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
 
 Lass dich also nicht von anderen Leuten verunsichern. Überlege was dich interessiert, schaue was in deinem Anwendungsbereich häufig eingesetzt wird und fange einfach damit an.
 
-> Du wirst mehr als eine Programmiersprache lernen!
+<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text={% raw %}Wie du Programmieren lernst Tutorial: Du wirst mehr als eine Programmiersprache lernen! %23ProgrammierenLernen{% endraw %}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" target="_blank">Du wirst mehr als eine Programmiersprache lernen! <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
 
 Egal womit du anfängst, du wirst mehr als eine Programmiersprache lernen, wenn du etwas länger dabei bist. Wichtig ist, dass du zu Anfang die grundlegenden Konzepte lernst, denn diese sind in (fast) allen Programmiersprachen enthalten.
 
-> Behalte dein (Traum-)Projekt im Auge!
+<a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text={% raw %}Wie du Programmieren lernst Tutorial: Behalte dein (Traum-)Projekt im Auge! %23ProgrammierenLernen{% endraw %}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" target="_blank">Behalte dein (Traum-)Projekt im Auge!<i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
 
 Fängst du mit einer Programmiersprache für das Web an, obwohl du weißt, dass du gerne eine Desktopanwendung für Windows entwickeln willst ist das nicht falsch, aber du machst es dir selber schwer. Üben und Arbeiten an deinem Projekt sind wichtige Elemente um das Programmieren zu lernen und um auch frustrierende Zeiten zu überwinden.
 
