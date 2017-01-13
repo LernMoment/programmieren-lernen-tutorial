@@ -29,6 +29,8 @@ Eigentlich könnte diese Lektion nach folgender Aussage enden:
 
 <a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text=Es ist egal welche Programmiersprache du wählst, solange du es JETZT machst und anfängst zu lernen!" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" target="_blank">Es ist egal welche Programmiersprache du wählst, solange du es JETZT machst und anfängst zu lernen! <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
 
+Auch wenn damit tatsächlich alles gesagt ist, bringt dich das wohl nicht weiter. Also hole ich mal ein wenig weiter aus.
+
 Wahrscheinlich trägst du die Frage *"Mit welcher Programmiersprache soll ich anfangen?"* schon länger mit dir rum. Wenn du es machst wie ich, dann hast du schon einige Webseiten, Foren und Facebook-Gruppen besucht und bist deiner Antwort noch kein Stück näher.
 
 Warum kannst du dich also nicht entscheiden? Ich denke es geht hauptsächlich auf die folgenden Punkte zurück:
