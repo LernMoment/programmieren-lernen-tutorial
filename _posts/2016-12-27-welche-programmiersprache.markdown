@@ -15,13 +15,67 @@ Wie in allen Bereichen kommt es auch bei Softwareentwicklern (und Programmierern
 
 Viel Spaß!
 
-PS: Auch wenn du dich bereits für eine Programmiersprache entschieden hast, sollte diese Lektion für dich spannend sein. Du erfährst nämlich *Warum es soviele Programmiersprachen gibt* und *Welche Komponenten du als erstes lernen solltest*.
+PS: Auch wenn du dich bereits für eine Programmiersprache entschieden hast, sollte diese Lektion für dich spannend sein. Du erfährst nämlich *Was eine Programmiersprache überhaupt ist*, *Warum es soviele Programmiersprachen gibt* und *Welche Komponenten du als erstes lernen solltest*.
 
 ## Video
 
-Folgends Video ersetzen mit dem passenden für diese Lektion!
+Alles zum Thema *Die ("richtige") Programmiersprache zum Einstieg* erkläre ich dir in folgendem Video. Da diese Lektion recht lang geworden ist, findest du unter dem Video Einsprungpunkte zu den einzelnen Abschnitten im Video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/crP-uQc7fJA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9nhAAB7Mmyo" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
+Hier findest du die Einsprungpunkte für die verschiedenen Abschnitte innerhalb dieser Lektionen (klicke einfach auf das entsprechende Bild):
+
+### Was ist eine Programmiersprache?
+
+<figure style="width: 300px" class="align-left">
+  <a href="https://youtu.be/9nhAAB7Mmyo?t=2m35s" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/welche-programmiersprache_was-ist.jpeg" alt="Diese Lektion bei 2 Minuten und 35 Sekunden."></a>
+</figure> 
+
+Um dich für eine Programmiersprache entscheiden zu können, solltest du wissen was das überhaupt ist. In diesem Abschnitt zeige ich dir, dass du sie benötigst um dem Computer zu sagen was er für dich tun soll. Dabei lernst du die vier wichtigsten Schritte bei der Programmierung kennen.
+
+<br>
+
+### Warum gibt es verschiedene Programmiersprachen?
+
+<figure style="width: 300px" class="align-right">
+  <a href="https://youtu.be/9nhAAB7Mmyo?t=7m40s" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/welche-programmiersprache_warum-verschiedene.jpeg" alt="Diese Lektion bei 7 Minuten und 40 Sekunden."></a>
+</figure> 
+
+In diesem Abschnitt zeige ich dir, dass eine Programmiersprache nicht nur benötigt wird um zwischen dem Mensch und dem Computer zu vermitteln, sondern auch um zwischen Menschen zu vermitteln. Mit der Programmiersprache dokumentierst du nämlich deine Lösungsidee und diese kann für andere Entwickler, aber auch für dich selbst (zu einem späteren Zeitpunkt) relevant sein.
+
+<br>
+
+### 3 Komponenten im Kontext von Programmiersprachen
+
+<figure style="width: 300px" class="align-left">
+  <a href="https://youtu.be/9nhAAB7Mmyo?t=13m22s" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/welche-programmiersprache_komponenten-im-kontext.jpeg" alt="Diese Lektion bei 13 Minuten und 22 Sekunden."></a>
+</figure> 
+
+In diesem Abschnitt erfährst du was *Syntax, Bibliotheken und Konzepte* sind und ich gebe dir einen Überblick was du davon als erstes lernen solltest. Hier solltest du auch erkennen, warum es egal ist mit welcher Programmiersprache du beginnst.
+
+<br>
+
+### Eine Programmiersprache aus der Mitte
+
+<figure style="width: 300px" class="align-right">
+  <a href="https://youtu.be/9nhAAB7Mmyo?t=21m5s" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/welche-programmiersprache_eine-aus-der-mitte.jpeg" alt="Diese Lektion bei 21 Minuten und 05 Sekunden."></a>
+</figure> 
+
+Um ein besseres Verständnis von verschiedenen Programmiersprachen zu bekommen zeige ich dir, anhand ein paar Beispielen, welche ich wo im Spektrum anordnen würde. Darüber hinaus erfährst du was an den Sprachen *Assembler, C, C++, Java und Co., Python und Ruby* gut und weniger gut zu lernen ist.
+
+<br>
+
+### Verändere dein Umfeld Schritt für Schritt
+
+<figure style="width: 300px" class="align-left">
+  <a href="https://youtu.be/9nhAAB7Mmyo?t=30m2s" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/welche-programmiersprache_schritt-fuer-schritt.jpeg" alt="Diese Lektion bei 30 Minuten und 02 Sekunden."></a>
+</figure> 
+
+Hier lernst du eines der Kernprinzipien der Programmierung kennen. Es ist *"Teile und Herrsche"*. Bevor du dich ins Abenteuer *Programmieren lernen* stürzt, solltest du überlegen womit du anfängst. Willst du eine Programmiersprache lernen und kennst weder deinen Rechner noch dein Betriebssystem wird das sehr anstrengend und frustrierend.
+
+<br>
 
 ## Artikel
 
