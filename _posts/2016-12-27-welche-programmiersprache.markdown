@@ -42,7 +42,7 @@ Eines mal gleich vorweg:
 
 <a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text=Es gibt keine falsche Programmiersprache für den Einstieg. Bei einigen brauchst du nur etwas mehr Zeit." class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" target="_blank">Es gibt keine "falsche" Programmiersprache für den Einstieg. Bei einigen brauchst du nur etwas mehr Zeit. <i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
 
-Da du bisher noch wenig über Programmiersprachen weißt, zeige ich dir in dieser Lektion wofür du überhaupt eine Programmiersprache brauchst und was die wichtigsten Bestandteile sind. Damit hast du die wichtigsten Informationen um dich für eine Sprache zu entscheiden. Genau so einfach wie es hier steht ist es auch. Es ist viel wichtiger mit dem Lernen anzufangen als noch viele Tage oder auch Stunden damit zu verbringen zu suchen.
+Da du bisher noch wenig über Programmiersprachen weißt, zeige ich dir in dieser Lektion wofür du überhaupt eine Programmiersprache brauchst und was die wichtigsten Bestandteile sind. Damit hast du die relevanten Informationen um dich für eine Sprache zu entscheiden. Genau so einfach wie es hier steht ist es auch. Es ist viel wichtiger mit dem Lernen anzufangen als noch viele Tage oder auch nur Stunden damit zu verbringen zu suchen.
 
 ### Wofür wird eine Programmiersprache benötigt? Überraschende Erkenntnis!
 
@@ -58,9 +58,9 @@ Nun stellt sich die Frage warum gibt es so viele verschiedene Programmiersprache
 
 Hier gibt es einen weiteren spannenden Punkt zu betrachten. Wie anfangs erwähnt geht es darum, dass du mithilfe einer Programmiersprache dem Computer erklärst wie er eine Aufgabe für dich lösen soll. Eine Programmiersprache wird also auch dazu verwendet deine Lösungsidee zu dokumentieren.
 
-Im Laufe der Entwicklung einer Anwendung arbeiten häufig mehrere Entwickler am Quellcode. Daher hat eine Programmiersprache eine weitere Aufgabe und das ist die initiale Lösungsidee so zubeschreiben, dass andere Entwickler oder du selbst zu einem späteren Zeitpunkt verstehen wie diese Idee aussieht. Mithilfe einer Programmiersprache findet also nicht nur ein Informationsaustausch zwischen Mensch und Computer stat, sondern auch zwischen Menschen.
+Im Laufe der Entwicklung einer Anwendung arbeiten häufig mehrere Entwickler am Quellcode. Daher hat eine Programmiersprache eine weitere Aufgabe und das ist die initiale Lösungsidee so zubeschreiben, dass andere Entwickler oder du selbst zu einem späteren Zeitpunkt verstehen wie diese Idee aussieht. Mithilfe einer Programmiersprache findet also nicht nur ein Informationsaustausch zwischen Mensch und Computer statt, sondern auch zwischen Menschen.
 
-Daher bringt die Betrachtung des Spektrums eine weitere Erkenntnis. Je näher eine Programmiersprache auf dem Spektrum beim Menschen ist, desto besser geeignet ist zum Informationsaustausch zwischen Menschen.
+Daher bringt die Betrachtung des Spektrums eine weitere Erkenntnis. Je näher eine Programmiersprache auf dem Spektrum beim Menschen ist, desto besser geeignet ist sie zum Informationsaustausch zwischen Menschen.
 
 Ein Grund warum es soviele Programmiersprachen gibt kannst du also anhand des Spektrums sehen. Daneben gibt es viele weitere Gründe warum es sinnvoll ist, dass es für unterschiedliche Zwecke auch unterschiedliche Programmiersprachen gibt. Ein paar Beispiele für Programmiersprachen und wo sie auf dem Spektrum angesiedelt sind, gebe ich gleich noch.
 
