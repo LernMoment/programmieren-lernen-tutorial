@@ -258,4 +258,4 @@ Vielen Dank und viel Erfolg beim Lernen
 
 Jan von [LernMoment.de](http://www.lernmoment.de)
 
-[Zur nächsten Lektion](/erste-schritte/){: .btn .btn--primary .btn--large}
+[Zur nächsten Lektion]({{ site.url }}{{ site.baseurl }}/erste-schritte/){: .btn .btn--primary .btn--large}
