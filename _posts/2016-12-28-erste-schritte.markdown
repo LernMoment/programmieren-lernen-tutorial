@@ -144,16 +144,31 @@ Das Prinzip was diesem Experiment zugrunde liegt ist wieder *"Teil und Herrsche"
   <p>Eine <b>Entwicklungsumgebung</b> beinhaltet alle Werkzeuge (Programme) die du benötigst um deinen Quellcode (möglichst effektiv / einfach) zu erstellen und ihn dann in ein ausführbares Programm zu übersetzen. Dabei gibt es meistens die Möglichkeit, dass du für deine Programmiersprache eine IDE (integrierte Entwicklungsumgebung) verwendest, oder die benötigten Werkzeuge separat installierst. Eine IDE ist meistens einfacher zu installieren, aber unter Umständen auch komplizierter in der Anwendung. Verwendest du einzelne Werkzeuge hast du es mit wesentlich mehr Details zutun. Allerdings kann dir das auch beim Lernen helfen.</p>
 </div>
 
-
 ### Experiment #4 - "Einfache" Übung lösen
 
- - Zum Beispiel grundlegende Funktionen eines Taschenrechners, oder ein einfache Spiel wie TicTacToe
- - Damit entwickelst du ein erstes Verständnis dafür was es bedeutet ein Entwickler zu sein. Es geht nämlich nicht um Syntax oder Bibliotheken, sondern es geht darum Lösungen für Probleme zu finden und diese mit Hilfe der Programmiersprache dann zu realisieren.
+**Ziel:** Löse einfache Übungen und erfahre so was es bedeutet ein Entwickler zu sein.
 
-Was sind die 3 Kernthemen für diese Lektion?
+**Vorgehen:** Das schwierigste an diesem Experiment ist das Finden von Übungen die deinem Kenntnisstand entsprechen. Sobald du eine Übung gefunden hast, empfehle ich, dass du dir ein Zeitlimit setzt. Innerhalb dieses Zeitlimits versuchst du nun die Übung zu lösen. Anschließend (egal ob du erfolgreich warst oder nicht) reflektierst du über deine Arbeit und Eindrücke.
 
- - Eine Art "Hallo Welt"
- - "Teile und Herrsche" - Versuche nicht alles auf einmal zu lernen sondern nach einander.
+<div class="notice--info">
+  <h4>Hinweis</h4>
+  <p>Ich kann keine Seite empfehlen auf der du gute Übungen für Anfänger findest. Auf <a href="http://www.lernmoment.de" target="_blank">LernMoment.de</a> bin ich gerade dabei Übungen zu entwickeln die dich als Einsteiger optimal fordern und fördern. Allerdings dauert es noch ein wenig bis du dort Übungen für alle Programmiersprachen finden wirst.</p>
+</div>
+
+Gerade zu Anfang eignen sich einfache Übungen wie die *grundlegenden Funktionen eines Taschenrechners* oder auch einfache Spiele wie beispielsweise *Tic Tac Toe*. Hier solltest du die für deine Programmiersprache entsprechende einfachste Lösung wählen. Für *C#* hast du zum Beispiel die Auswahl zwischen einer grafischen Oberfläche und einer textuellen Benutzerinteraktion in einem Konsolenprojekt.
+
+Auch wenn es nicht sonderlich intuitiv ist, würde ich immer empfehlen mit einem Konsolenprojekt zu beginnen. Dieses hat eine wesentlich geringere Komplexität und somit auch weniger Fehlerpotential. Du kannst dich damit erstmal auf die wichtigste Syntax konzentrieren und vor allem die ersten Konzepte kennenlernen. 
+
+Diesen Punkt solltest du auch beachten, wenn du dich für einen (Online-)Kurs, eine Schulung oder was auch immer entscheidest. Noch immer ist es so, dass viele der angebotenen Kurse *"nur"* Erklärvideos beinhalten und du bei Übungen dann alleine gelassen wirst. 
+
+Um dieses Experiment umzusetzen brauchst du offensichtlich ein erstes Verständnis von Syntax und Konzepten. Was du allerdings machen kannst, ist, dass du dich durch deine Übung beim Lernen leiten lässt. Dafür ist ein entsprechendes Tutorial, Buch, ... hilfreich.
+
+Im Vordergund steht auch hier ganz klar die Praxis. Ich möchte damit vermeiden, dass du erst viele Stunden damit verbringst dich theoretisch in das Thema einzuarbeiten. Vielmehr solltest du fokussiert genau die Theorie ergründen die nötig ist deine Übung zu lösen und nicht mehr. Damit entwickelst du ein erstes Verständnis dafür was es bedeutet ein Entwickler zu sein. Es geht nämlich nicht um Syntax oder Bibliotheken, sondern es geht darum Lösungen für Probleme zu finden und diese mit Hilfe der Programmiersprache dann zu realisieren.
+
+<div class="notice--info">
+  <h4>Begriffsdefinition</h4>
+  <p>Mit einem <b>Konsolenprojekt</b> erstellst du eine Anwendung die nur über die Konsole (auch bekannt unter dem Namen <i>Terminal</i> oder <i>Shell</i>) zu bedienen ist.</p>
+</div>
 
 ## Quiz
 
