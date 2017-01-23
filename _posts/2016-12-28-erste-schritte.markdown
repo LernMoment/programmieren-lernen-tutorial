@@ -43,6 +43,8 @@ Eine Verpflichtung ist für mich eine Absprache (in diesem Fall mit mir selbst) 
 
 Was hat das nun alles mit dir und dem *Programmieren lernen* zutun? Mein Vorschlag ist, dass du die *"Ersten Schritte"* wie einzelne Experimente ansiehst bevor du die Verpflichtung *"Programmieren lernen"* mit dir eingehst. Das heißt für mich liegt der Fokus bei den *Ersten Schritten* nicht auf dem Resultat, sondern auf der Erfahrung die du während der Ausführung der Experimente machst.
 
+Hast du dich also beispielsweise für eine Programmiersprache entschieden, dann kannst du mit ihr einige Experimente durchführen und dann besser beurteilen ob es wirklich das richtige für dich ist. Auch wenn du dich noch nicht für eine Programmiersprache netschieden hast, kannst du so vorgehen und damit verschiedene Programmiersprachen gegen einander vergleichen.
+
 Jetzt geht es aber wirklich los ;-)
 
 ### Experiment #1 - Spielen
@@ -57,7 +59,7 @@ Es gibt mittlerweile viele tolle Ansätze wie Kinder einen Einstieg in die Progr
 
 Die Möglichkeiten die dir im Netz geboten werden sind einfach unglaublich cool! Du kannst zum Beispiel mit "grafischer Programmierung" anfangen. Hier gibt es sehr viele Möglichkeiten. Ich habe nicht alle ausprobiert, aber im Folgenden gebe ich dir ein paar Tipps mit denen du dein Experiment beginnen kannst:
 
- - <a href="https://studio.code.org" target="_blank">Code.org</a> - Nicht nur kostenlos, sondern auch richtig super gemacht. Wie wäre es beispielsweise wenn du die Grundbegriffe der Programmierung lernst in dem du einen <a href="https://studio.code.org/flappy/1" target="_blank">Flappy Bird Clone</a> erstellst. Du "arbeitest" direkt in deinem Browser, erstellst selber erste Abläufe und bekommst das wichtigste beigebracht in Form von Video. GENIAL!
+ - <a href="https://studio.code.org" target="_blank">Code.org</a> - Nicht nur kostenlos, sondern auch richtig super gemacht. Wie wäre es beispielsweise wenn du die Grundbegriffe der Programmierung lernst in dem du einen <a href="https://studio.code.org/flappy/1" target="_blank">Flappy Bird Clone</a> erstellst. Du "arbeitest" direkt in deinem Browser, erstellst selber erste Abläufe und bekommst das wichtigste mit Videos beigebracht. GENIAL!
  - <a href="https://www.tynker.com/free-play/" target="_blank">Tynker</a> - Auch kostenlos, nicht so intuitiv wie *Code.org*, aber schon näher an der *"wirklichen"* Programmierung. Auch hier brauchst du nichts weiter als deinen Browser. Allerdings ist die Oberfläche komplett in Englisch.
  - <a href="http://scratch-dach.info/wiki/Mit_Scratch_programmieren" target="_blank">Scratch</a> - Vom MIT entwickelter grafischer Ansatz zum Lernen von Programmierung. Wenn du ein wenig suchst, wirst du sehen, dass es ziemlich viel in diesem Kontext gibt. Es geht sogar soweit, dass du auch Hardware wie *Arduino* damit programmieren kannst.
 
@@ -88,14 +90,65 @@ Damit meine ich nicht nur das praktische Umsetzen, sondern auch das Erarbeiten. 
 
 Wenn du länger brauchst, dann musst du schneller tippen ;-)!
 
+ - https://repl.it/languages/ruby
+ - https://dotnetfiddle.net
+
 Sollte dir das für den Einstieg noch zu viel Arbeit sein, dann gibt es *interaktive Tutorials*. Diese setzen üblicherweise auf einer IDE im Netz auf und bieten auch den Inhalt. Du kannst also Wissen aufnehmen und direkt praktisch umsetzen. Links zu interaktiven Tutorials für verschiedene Programmiersprachen findest du unten im Abschnitt *Links*.
+
+ - http://tryruby.org/
+ - http://www.learncs.org/en/
 
 <div class="notice--info">
   <h4>Hinweis:</h4>
   <p>Dieses Experiment kannst du hervorragend nutzen bei der Auswahl einer Programmiersprache. Wenn du dir also nicht sicher bist ob dir eine Programmiersprache gefällt bzw. ob du sie lernen kannst, kannst du mit <i>interaktiven Tutorials</i> sehr schnell einen ersten Eindruck bekommen.</p>
 </div>
 
-### Experiment #3 - Erstes (lokales) Programm
+### Experiment #3 - Einfachstes Programm (lokal entwickeln)
+
+**Ziel:** Entwicklungsumgebung auf deinem Rechner installieren und testen.
+
+**Vorgehen:** Installiere eine Entwicklungsumgebung für die Programmiersprache deiner Wahl, schreibe ein sehr einfaches Programm bei dem du kaum Fehler machen kannst und übersetze den Quellcode in ein ausführbares Programm. Damit hast du eine erste Funktionsprüfung deiner Entwicklungsumgebung gemacht.
+
+Wenn dich Programmieren interessiert, dann brauchst du mehr als nur eine Entwicklungsumgebung im Netz. Wenn du das vorherige Experiment gemacht hast, dann wirst du nach einiger Zeit sehen, dass es zwar ganz cool ist, aber, dass es auch einige Einschränkungen gibt. Damit du wirklich produktiv Programme entwickeln kannst, benötigst du früher oder später eine Entwicklungsumgebung auf deinem Rechner.
+
+Die Installation kann ein arbeitsintensiver Schritt sein. Zum einen fehlt dir das Wissen was du alles benötigst und vor allem, was das alles ist was du da installierst. Zum anderen kann es je nach Programmiersprache und Hersteller deiner Entwicklungsumgebung bzw. Werkzeuge etwas komplexer sein alle passenden Stücke zu finden und installieren.
+
+Mein Vorschlag ist, dass du dir vornimmst ein minimales Programm zu entwickeln. Dies soll nichts anderes tun als eine einfache Ausgabe zu machen (zum Beispiel *"Hallo Welt"*). Um dies zu erreichen installierst du alles was du dafür benötigst, schreibst dann den Quellcode, führst die wenigen relevanten Aktionen mit der Entwicklungsumgebung aus um deinen Quellcode zu übersetzen und führst schließlich dein erstes Programm lokal aus.
+
+Das Ziel ist ganz klar die Installation der Entwicklungsumgebung und das erste Kennenlernen. Dadurch, dass du aber ein absolut einfaches Programm erstellst, kannst du gleich überprüfen ob die Entwicklungsumgebung korrekt funktioniert. Sollte etwas nicht funktionieren, ist die Wahrscheinlichkeit extrem hoch, dass es an der Entwicklungsumgebung liegt, weil das Programm so einfach ist, dass du kaum Fehler machen kannst. Außerdem gibt es für jede Programmiersprache ein (kostenloses) Tutorial, welches dir zeigt wie du ein *Hallo Welt* - Programm entwickelst.
+
+Hier ist zum Beispiel der Quellcode für *Hallo Welt* in *C#*
+
+```cs
+using System;
+
+namespace HalloWeltCSharp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hallo Welt");
+
+            // Folgende Zeile ist schon eine Erweiterung
+            Console.ReadLine();
+        }
+    }
+}
+```
+
+Das Prinzip was diesem Experiment zugrunde liegt ist wieder *"Teil und Herrsche"*. Versuche nicht alles auf einmal zu lernen sondern nacheinander. Für dieses Experiment heißt das voller Fokus auf die Entwicklungsumgebung.
+
+<div class="notice--info">
+  <h4>Begriffsdefinition</h4>
+  <p>Eine <b>Entwicklungsumgebung</b> beinhaltet alle Werkzeuge (Programme) die du benötigst um deinen Quellcode (möglichst effektiv / einfach) zu erstellen und ihn dann in ein ausführbares Programm zu übersetzen. Dabei gibt es meistens die Möglichkeit, dass du für deine Programmiersprache eine IDE (integrierte Entwicklungsumgebung) verwendest, oder die benötigten Werkzeuge separat installierst. Eine IDE ist meistens einfacher zu installieren, aber unter Umständen auch komplizierter in der Anwendung. Verwendest du einzelne Werkzeuge hast du es mit wesentlich mehr Details zutun. Allerdings kann dir das auch beim Lernen helfen.</p>
+</div>
+
+
+### Experiment #4 - "Einfache" Übung lösen
+
+ - Zum Beispiel grundlegende Funktionen eines Taschenrechners, oder ein einfache Spiel wie TicTacToe
+ - Damit entwickelst du ein erstes Verständnis dafür was es bedeutet ein Entwickler zu sein. Es geht nämlich nicht um Syntax oder Bibliotheken, sondern es geht darum Lösungen für Probleme zu finden und diese mit Hilfe der Programmiersprache dann zu realisieren.
 
 Was sind die 3 Kernthemen für diese Lektion?
 
@@ -117,6 +170,10 @@ Links die ich im Artikel / Video usw. verwendet habe.
  - http://www.filipekberg.se/2014/05/28/i-want-to-learn-programming-where-do-i-start/
  - https://medium.com/the-mission/9-places-to-learn-how-to-code-in-15-minutes-or-less-a-day-b29451500c21#.oyxkfpo4q
 
+<div class="notice--warning">
+  <h4>FEHLT EIN LINK?</h4>
+  <p>Du hast eine <i>Umgebung</i> oder ein <i>interaktives Tutorial</i> im Web gefunden, dass dir gut gefällt und hier nicht gelistet ist? Dann <a href="mailto:jan@lernmoment.de?subject=[Wie du Programmieren lernst] Erste Schritte? - Neuer Link!">schick mir</a> den Link und ich werde ihn hier gerne aufnehmen. Der nächste Teilnehmer wird sich bestimmt freuen!</p>
+</div>
 
 ---
 
