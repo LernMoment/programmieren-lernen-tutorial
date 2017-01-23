@@ -3,6 +3,6 @@ main:
   - title: "Tutorial Home"
     url: /
   - title: "Lektionen im Überblick"
-    url: /ueberblick/
+    url: {{ site.url }}{{ site.baseurl }}/ueberblick/
   - title: "Weitere Kurse"
     url: /
