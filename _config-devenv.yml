@@ -1,5 +1,6 @@
 # adapt configuration to development environment within docker
 url: http://0.0.0.0:4000
+baseurl: ""
 future: true
 
 # SEO Related - hide dev site from SEO stuff
