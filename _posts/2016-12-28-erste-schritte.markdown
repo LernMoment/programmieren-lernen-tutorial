@@ -77,6 +77,11 @@ Für die meisten Programmiersprachen bieten daher Hersteller eine IDE (Integrate
 
 Gerade in den letzten Jahren sind für viele Programmiersprachen solche IDEs ins Netz portiert worden. Das heißt, dass es eine Webseite gibt auf der du Quellcode in der entsprechenden Programmiersprache schreiben kannst und diesen auch direkt dort ausführen lassen kannst um zu sehen wie die Ausgabe bzw. das Resultat deines Quellcodes ist. Sobald du also die ersten Informationen über Syntax und Bibliotheken deiner Programmiersprache gelesen, gesehen oder gehört hast, kannst du sie sofort ausprobieren.
 
+Hier mal ein paar Beispiele (weitere Links findest du am Ende der Seite):
+
+ - <a href="https://repl.it/languages/ruby" target="_blank">repl.it - ruby</a> - Eine Umgebung in der du Ruby entwickeln kannst.
+ - <a href="https://dotnetfiddle.net" target="_blank">.NET fiddle - C#</a> - Eine Umgebung in der du C# entwickeln kannst.
+
 Um das ganz klar zu sagen:
 
 <a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username }}&{% endif %}text={% raw %}Wie du Programmieren lernst Tutorial: Mit einer IDE im Web kannst du innerhalb von wenigen Minuten Resultate sehen. %23ProgrammierenLernen{% endraw %}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter" target="_blank">Mit einer IDE im Web kannst du innerhalb von wenigen Minuten Resultate sehen.<i class="fa fa-fw fa-twitter" aria-hidden="true"></i></a>
@@ -90,13 +95,7 @@ Damit meine ich nicht nur das praktische Umsetzen, sondern auch das Erarbeiten. 
 
 Wenn du länger brauchst, dann musst du schneller tippen ;-)!
 
- - https://repl.it/languages/ruby
- - https://dotnetfiddle.net
-
 Sollte dir das für den Einstieg noch zu viel Arbeit sein, dann gibt es *interaktive Tutorials*. Diese setzen üblicherweise auf einer IDE im Netz auf und bieten auch den Inhalt. Du kannst also Wissen aufnehmen und direkt praktisch umsetzen. Links zu interaktiven Tutorials für verschiedene Programmiersprachen findest du unten im Abschnitt *Links*.
-
- - http://tryruby.org/
- - http://www.learncs.org/en/
 
 <div class="notice--info">
   <h4>Hinweis:</h4>
@@ -180,10 +179,43 @@ Hier Aufgaben/Fragen stellen mit denen der Leser erarbeiten kann was seine Motiv
 
 ## Links
 
-Links die ich im Artikel / Video usw. verwendet habe.
+Einige der Links in *Experiment #1 - Spielen* kommen von <a href="http://www.filipekberg.se/2014/05/28/i-want-to-learn-programming-where-do-i-start/" target="_blank">Filip Ekberg</a> und <a href="https://medium.com/the-mission/9-places-to-learn-how-to-code-in-15-minutes-or-less-a-day-b29451500c21#.oyxkfpo4q" target="_blank">Larry Kim</a>. Beide Artikel sind in Englisch, aber absolut lesenswert.
 
- - http://www.filipekberg.se/2014/05/28/i-want-to-learn-programming-where-do-i-start/
- - https://medium.com/the-mission/9-places-to-learn-how-to-code-in-15-minutes-or-less-a-day-b29451500c21#.oyxkfpo4q
+Mit den folgenden Links zu *Entwicklungsumgebungen* und *interaktiven Tutorials* landest du auf Seiten die fast ausschließlich in Englisch sind. Ich habe bisher nichts (gutes) gefunden was in Deutsch verfügbar ist. Habe ich schon auf meine ToDo-Liste geschrieben ;-).
+
+### "Entwicklungsumgebungen" im Netz
+
+Ich habe das Wort *Entwicklungsumgebung* mal in Anführungszeichen gesetzt, weil es nicht bei allen Links wirklich zutrifft, trotzdem finde ich es hilfreich:
+
+  - **Ruby**
+      - <a href="https://repl.it/languages/ruby" target="_blank">repl.it - ruby</a> - Eine Umgebung in der du Ruby entwickeln kannst.
+  - **Python**
+      - <a href="http://www.typescriptlang.org/play/" target="_blank">Typescript Playground</a> - Eine Mischung von Tutorial und Entwicklungsumgebung für Typescript.
+  - **Typescript**
+      - <a href="http://www.typescriptlang.org/play/" target="_blank">Typescript Playground</a> - Eine Mischung von Tutorial und Entwicklungsumgebung für Typescript.
+  - **JavaScript**
+      - <a href="https://jsfiddle.net" target="_blank">JSFiddle</a> - Eine Umgebung in der du JavaScript in Kombination mit HTML und CSS ausprobieren kannst.
+  - **C#**
+      - <a href="https://dotnetfiddle.net" target="_blank">.NET fiddle - C#</a> - Eine Umgebung in der du C# entwickeln kannst.
+
+### Interaktive Tutorials
+
+  - **Ruby**
+      - <a href="http://tryruby.org/" target="_blank">Try Ruby</a> - Kostenloser Kurs der nur in Englisch verfügbar ist. Dafür sehr gut gemacht und recht einfach!
+  - **Python**
+      - <a href="https://www.codeschool.com/courses/try-python" target="_blank">Code School - Try Python</a> - Kostenloser Kurs für den du dich allerdings registrieren musst und der nur in Englisch verfügbar ist. Dafür sehr gut gemacht!
+      - <a href="https://py.checkio.org/" target="_blank">CheckiO - Python</a> - Kostenlose Übungen mit Anschluss an eine Community und alles eingebettet in ein Spiel. Den Ansatz finde ich richtig cool! Allerdings bekommst du hier Wissen nur vermittelt, wenn du die Community um Hilfe fragst.
+  - **JavaScript**
+      - <a href="https://www.javascript.com/try" target="_blank">JavaScript.com - Try</a> - Kurzes Tutorial welches dir die absoluten Grundlagen von JavaScript (hauptsächlich fokussiert auf die Syntax) erklärt, während du sie selber ausprobierst. Solltest du definitiv mal testen. Wieder nur in Englisch verfügbar :-(.
+      - <a href="https://js.checkio.org/" target="_blank">CheckiO - JavaScript</a> - Kostenlose Übungen mit Anschluss an eine Community und alles eingebettet in ein Spiel. Den Ansatz finde ich richtig cool! Allerdings bekommst du hier Wissen nur vermittelt, wenn du die Community um Hilfe fragst.
+  - **jQuery**
+      - <a href="http://try.jquery.com" target="_blank">Try jQuery</a> - Kostenloser Kurs der nur in Englisch verfügbar ist. Dafür sehr gut gemacht und recht einfach! Du benötigst ein paar Grundlagen in HTML und CSS für dieses Tutorial.
+  - **Verschiedene Sprachen**
+      - <a href="http://www.learncs.org/en/" target="_blank">learnCS.org</a> - Die Reihe learn...org gibt es in verschiedenen Sprachen. Die Oberfläche ist etwas eigenwillig, aber ansonsten kannst du für Sprachen wie Java, PHP, C#, C++, ... immer ähnliche Aufgaben meistern und ausprobieren. Natürlich kostenlos ;-).
+      - <a href="https://www.sololearn.com/" target="_blank">SoloLearn</a> - Unterstützt verschiedenste Sprachen wie Swift, C++, C#, Java, Python 3 und einige mehr. Es gibt nicht wahnsinnig viele Informationen, aber doch schon einiges. Die Benutzer haben die Möglichkeit alle zur Verfügung gestellten Informationen zu kommentieren. Das kann teilweise sehr hilfreich sein. Es ist eine Anmeldung erforderlich und alles nur in Englisch.
+  - **Git**
+      - <a href="https://try.github.io/levels/1/challenges/1" target="_blank">Try Git</a> - Kostenloser Kurs der nur in Englisch verfügbar ist. Dafür sehr gut gemacht!
+
 
 <div class="notice--warning">
   <h4>FEHLT EIN LINK?</h4>
