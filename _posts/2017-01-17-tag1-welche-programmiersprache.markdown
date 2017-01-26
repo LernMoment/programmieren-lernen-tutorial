@@ -11,6 +11,7 @@ Tag 1 - Welche Programmiersprache lernen? -> Erklären, dass das egal ist und an
 
 Inhalt:
  * Bild von mir
+ * Zitat: Es ist nicht recht, nur eine Sache zu kennen – man wird dumm davon; man sollte nicht ruhen, bis man auch das Gegenteil kennt. - Vincent van Gogh
  * Kurzer Einführungstext
  * Video -> diesen Teil https://youtu.be/9nhAAB7Mmyo?t=13m22s und davor eine kurze Erklärung, dass es nicht die richtige Programmiersprache gibt.
  * Links ???

@@ -11,6 +11,7 @@ Startseite - Erscheint wenn Teilnehmer seine Mail erhalten und bestätigt hat (L
 
 Inhalt:
  * Bild von mir
+ * Zitat: “Tell me and I forget. Teach me and I remember. Involve me and I learn.” – Benjamin Franklin -> Zeigen, dass es wichtig ist, dass der Teilnehmer sich beteiligt.
  * Kurzer Einführungstext
  * Willkommensvideo -> Es gibt kein falsches lernen, Talent ist nicht wichtig, Vorstellen Lernplan oder Lernsteckbrief
  * Zusatz Video -> Lerntyp (“Spezialist” vs. “Generalist”)

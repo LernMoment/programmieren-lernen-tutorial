@@ -11,6 +11,7 @@ Tag 2 - Erste Schritte (Experimente du sollst machen!)
 
 Inhalt:
  * Bild von mir
+ * Zitat: Auch ist das Suchen und Irren gut, denn durch Suchen und Irren lernt man. - Johann Wolfgang von Goethe
  * Kurzer Einführungstext -> u.a. erklären was eine Entwicklungsumgebung genau ist.
  * Video -> Das Konzept von Experimenten und Verpflichtung KURZ vorstellen. Eine Entwicklungsumgebung im Netz zeigen und erklären warum das hilfreich ist für das Lernen (niedrige Einstiegshürde) und welche Probleme es damit gibt.
  * ein paar Links zu Umgebungen

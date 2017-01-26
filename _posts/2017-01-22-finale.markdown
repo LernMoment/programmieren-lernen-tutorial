@@ -11,6 +11,7 @@ Finalseite - Zusammenfassung und Ausblick -> Vielleicht auch als Teil der vorher
 
 Inhalt:
  * Bild von mir
+ * Zitate: Man kann einen Menschen nichts lehren, man kann ihm nur helfen, es in sich selbst zu entdecken. - Galileo Galilei
  * Vielleicht eine verlinkte Übersicht von allen Lektionen in diesem Kurs?
  * Kurzer Dank und die Möglichkeit den Link zum Tutorial in den sozialen Medien zu teilen.
  * Video -> Die wichtigsten Aspekte zusammenfassen und dann erläutern wie die verschiedenen Teile im kostenpflichtigen Kurs weiter detailliert werden und das der Kurs momentan zum Sonderpreis verfügbar ist.
