@@ -1,8 +1,4 @@
 # main links
 main:
-  - title: "Tutorial Home"
-    url: /
-  - title: "Lektionen im Überblick"
-    url: /ueberblick/
   - title: "Weitere Kurse"
     url: /
