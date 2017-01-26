@@ -92,4 +92,4 @@ Vielen Dank und viel Erfolg beim Lernen
 
 Jan von [LernMoment.de](http://www.lernmoment.de)
 
-[Zur nächsten Lektion]({{ site.url }}{{ site.baseurl }}/welche-programmiersprache/){: .btn .btn--primary .btn--large}
+[Zur nächsten Lektion]({{ site.url }}{{ site.baseurl }}/was-lernen/){: .btn .btn--primary .btn--large}
